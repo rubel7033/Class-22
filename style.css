@@ -1,0 +1,17 @@
+.card img{
+    width: 100px;
+    margin: -15px 10px;
+}
+
+.card{
+    border: none;
+    
+}
+
+.address{
+    padding: 40px;
+}
+
+.address ul li{
+    list-style: none;
+}
